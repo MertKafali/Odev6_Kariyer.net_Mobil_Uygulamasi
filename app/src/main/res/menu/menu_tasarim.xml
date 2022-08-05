@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/anasayfaFragment"
+        android:icon="@drawable/find_job_icon2"
+        android:title="İş Ara" />
+    <item
+        android:icon="@drawable/islemler_icon"
+        android:title="İşlemler" />
+    <item
+        android:icon="@drawable/notficitation_icon"
+        android:title="Bildirimler" />
+    <item
+        android:icon="@drawable/profile_icon"
+        android:title="Profil" />
+</menu>
